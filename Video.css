@@ -1,0 +1,149 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 586px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 570px;
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-video-1 {
+  min-height: 430px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .embed-responsive-2 {
+  position: absolute;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Bebas Neue";
+  font-size: 3rem;
+  font-weight: 700;
+  margin: -400px 27px 0 607px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Bebas Neue";
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 48px 27px 0 607px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 250px;
+  height: 250px;
+  margin: -21px -64px 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 116px;
+  height: 116px;
+  background-image: none;
+  margin: -221px 417px 60px auto;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 470px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 61px;
+    margin-left: 434px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 434px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-1 {
+    color: rgb(0, 0, 0) !important;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 344px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 214px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 214px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 263px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 34px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 34px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 197px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 193%;
+    left: -46%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 124px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 306%;
+    left: -103%;
+  }
+}
